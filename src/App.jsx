@@ -127,7 +127,7 @@ return( <div>
   </div>)
  }
 export default App */
-import logo from './assets/DSC00300.JPG'
+/*import logo from './assets/DSC00300.JPG'
 import Paragraphe3 from './Component/Paragraphe3'
 function App (){
   return (
@@ -137,4 +137,11 @@ function App (){
     </div>
   )
 }
-export default App 
+export default App */
+
+
+import Push from './Component/push'
+function App(){
+    return ( <div> <Push/> </div>)
+  }
+  export default App
